@@ -1,1 +1,14 @@
-Equipo 3, aqui pondran su codigo 
+codigo 5
+#include<iostream>
+using namespace std;
+int main()
+{
+int a=10,b=0,resultado;
+if(b==0){
+cout<<"error:no se puede dividir entre cero"<<endl;
+}else{
+resultado=a/b;
+cout<<"resultado:"<<resultado<<endl;
+}
+return 0;
+}
