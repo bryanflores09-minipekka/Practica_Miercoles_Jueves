@@ -1,1 +1,7 @@
-Equipo 3, aqui pondran su codigo 
+codigo 1
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"hello world";
+return 0;
+}
