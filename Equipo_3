@@ -1,1 +1,11 @@
-Equipo 3, aqui pondran su codigo 
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b,c,suma;
+cout<<"ingresa 3 numeros";
+cin>>a>>b>>c;
+suma=a+b+c;
+cout<<"la suma total es:"<<suma<<endl;
+return 0;
+}
